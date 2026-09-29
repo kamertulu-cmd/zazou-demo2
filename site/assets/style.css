@@ -89,7 +89,7 @@ section{padding:56px 0}
 .hero video,.hero .poster{width:100%;aspect-ratio:1920/800;object-fit:cover;background:var(--pink)}
 @media (max-width:699px) and (orientation:portrait){.hero video,.hero .poster{aspect-ratio:9/13}}
 .hero-ctrl{position:absolute;right:12px;bottom:12px;background:var(--cream);color:var(--navy);border:3px solid var(--navy);border-radius:999px;min-height:44px;padding:6px 14px;font:700 14px var(--body);cursor:pointer}
-.hero-intro{padding:40px 0 8px}
+.hero-intro{padding-top:40px;padding-bottom:8px}
 .hero-intro h1{text-shadow:3px 3px 0 var(--yellow)}
 
 /* ızgaralar ve kartlar */
