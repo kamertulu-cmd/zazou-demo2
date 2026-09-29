@@ -1,0 +1,23 @@
+// Z. kim? sayfasında yalnızca 01–03 açık. 19 ve 20'nin içeriği bu dosyada YOK.
+export const CARDS = [
+  { n: '01', year: 1942, open: true,
+    frontAlt: 'Greetings from Somewhere by the Sea; gün batımı, deniz ve çizgili bir mum.',
+    text: ['Chère Colette,',
+      'Paris’ten ayrıldığımı duymuşsundur. Merak etme, iyiyim. Burada deniz her sabah başka bir renkte uyanıyor; ben de mumlarımı ona göre boyuyorum. Geceleri ışıklar hâlâ yasak, ama benim pencerem hiç karanlık kalmıyor.',
+      'Nerede olduğumu sorma. Sadece şunu bil: burada zeytin kokuyor ve kimse gri giymiyor.',
+      'Bises,', 'Z.'] },
+  { n: '02', year: 1942, open: true,
+    frontAlt: 'Gece mavisi zemin, pembe-beyaz çizgili çoraplı bacaklar, sarı bir trompet ve “Swing! Paris, 1942” yazısı.',
+    text: ['Chère Colette,',
+      'O geceyi sormuşsun. Evet, kafedeydim. Paul trompetini yeni çıkarmıştı ki kapı açıldı. Uzun ceketlerimizi, çizgili çoraplarımızı “ahlaksız” buldular. Paul’ün saçlarını kestiler, sokağın ortasında.',
+      'Ben arka kapıdan kaçtım. Mémé’nin dükkânından bir kutu mum, bir de Paul’ün plağını aldım; sabah güneye giden ilk trendeydim.',
+      'Burada çorap bulunmuyor. Çizgileri bacağıma kendim çiziyorum.',
+      'Z.'] },
+  { n: '03', year: 1943, open: true,
+    frontAlt: 'Taş duvardaki kemerli pencerede tek bir mum, arkada deniz; “une chambre, la mer” yazısı.',
+    text: ['Chère Colette,',
+      'Koydaki taş evin sahibi yaşlı bir kaptan. Adımı sormadı; sadece mum yapmayı bilip bilmediğimi sordu. Mémé’nin öğrettiği her şeyi hatırladım: balmumunu ağır ateşte eritmeyi, fitili sabırla germeyi.',
+      'Artık balıkçıların karıları kapımı çalıyor. Karartma yüzünden lamba yakamıyorlar; mumlarım onların gecesi oldu.',
+      'Kaptan bana denize bakan bir oda verdi. İlk mumu o pencereye koydum.',
+      'Z.'] },
+];

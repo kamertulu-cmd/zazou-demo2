@@ -1,0 +1,3 @@
+# Demo site — arama motorlarında görünmesin
+User-agent: *
+Disallow: /

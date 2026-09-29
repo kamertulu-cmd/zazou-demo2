@@ -1,0 +1,293 @@
+[
+  {
+    "id": "ZZ-001",
+    "sku": "[SKU]",
+    "slug": "cha-cha-stripe",
+    "name": "Cha Cha Stripe",
+    "collection": "xmas-cha-cha",
+    "postcard": "09",
+    "newRank": 1,
+    "price": null,
+    "compareAtPrice": null,
+    "currency": "TRY",
+    "priceLabel": "[FİYAT]",
+    "stock": "in_stock",
+    "scentFamily": "Baharatlı",
+    "scentNotes": "Portakal kabuğu, tarçın, şeker kamışı",
+    "short": "Pembe-beyaz çizgili uzun sütun mum.",
+    "description": "Bir, iki, cha-cha-cha: yılbaşında evde yer kalmayınca mumlarım da dans etmeye başladı. Bu çizgili olan hiç düz durmadı; yak, plağı aç, gerisini ayaklarına bırak.",
+    "variants": [
+      {
+        "name": "Renk",
+        "options": [
+          "Pembe-beyaz",
+          "Turkuaz-beyaz",
+          "Sarı-beyaz"
+        ]
+      },
+      {
+        "name": "Boy",
+        "options": [
+          "Uzun",
+          "Kısa"
+        ]
+      }
+    ],
+    "specs": {
+      "size": "[ÖLÇÜ]",
+      "weight": "[GRAMAJ]",
+      "burnTime": "[SÜRE]"
+    },
+    "images": [
+      {
+        "file": "cha-cha-stripe",
+        "alt": "Pembe zemin üzerinde, turkuaz tabakta duran pembe-beyaz çapraz çizgili uzun sütun mum; alevi yanıyor, etrafta konfeti."
+      },
+      {
+        "file": "cha-cha-stripe-kullanimda",
+        "alt": "Kullanımda: pembe duvarda renkli bayrak süsleri, sarı masada turkuaz hediye paketi ve plağın yanında yanan Cha Cha Stripe mum."
+      }
+    ]
+  },
+  {
+    "id": "ZZ-002",
+    "sku": "[SKU]",
+    "slug": "minuit",
+    "name": "Minuit",
+    "collection": "after-dark",
+    "postcard": "05",
+    "newRank": 2,
+    "price": null,
+    "compareAtPrice": null,
+    "currency": "TRY",
+    "priceLabel": "[FİYAT]",
+    "stock": "in_stock",
+    "scentFamily": "Odunsu",
+    "scentNotes": "Amber, sedir ağacı, bir tutam tütsü",
+    "short": "Altın kapaklı lacivert cam kavanozda tek alev.",
+    "description": "Misafirler gidince tek bir mum yakarım; o saate karanlıktan sonrası derim. Minuit o saat için: kısık bir plak, sessiz bir oda, korkusuz bir gece yarısı.",
+    "variants": [
+      {
+        "name": "Kavanoz",
+        "options": [
+          "Küçük",
+          "Büyük"
+        ]
+      }
+    ],
+    "specs": {
+      "size": "[ÖLÇÜ]",
+      "weight": "[GRAMAJ]",
+      "burnTime": "[SÜRE]"
+    },
+    "images": [
+      {
+        "file": "minuit",
+        "alt": "Lacivert gece zemininde, arkada pembe etiketli bir plak; önde \"minuit\" etiketli lacivert cam kavanoz mum, yanında altın kapağı."
+      },
+      {
+        "file": "minuit-kullanimda",
+        "alt": "Kullanımda: gece, pencereden ay ve deniz görünüyor; mor masada üst üste kitaplar, bir fincan ve yanan Minuit kavanoz mum."
+      }
+    ]
+  },
+  {
+    "id": "ZZ-003",
+    "sku": "[SKU]",
+    "slug": "swirl-pillar",
+    "name": "Swirl Pillar",
+    "collection": "swirl",
+    "postcard": "07",
+    "newRank": 5,
+    "price": null,
+    "compareAtPrice": null,
+    "currency": "TRY",
+    "priceLabel": "[FİYAT]",
+    "stock": "in_stock",
+    "scentFamily": "Ferah",
+    "scentNotes": "Deniz tuzu, bergamot, beyaz misk",
+    "short": "Mavi, sarı ve beyaz mermer desenli kalın sütun.",
+    "description": "Mavi boyayı sarı balmumuna devirdiğim gün renkler kendi yolunu buldu. Hiçbir Swirl bir diğerine benzemez; nereye akacaklarına onlar karar verir.",
+    "variants": [
+      {
+        "name": "Renk",
+        "options": [
+          "Mavi-sarı",
+          "Pembe-turuncu"
+        ]
+      },
+      {
+        "name": "Kalınlık",
+        "options": [
+          "Orta",
+          "Kalın"
+        ]
+      }
+    ],
+    "specs": {
+      "size": "[ÖLÇÜ]",
+      "weight": "[GRAMAJ]",
+      "burnTime": "[SÜRE]"
+    },
+    "images": [
+      {
+        "file": "swirl-pillar",
+        "alt": "Turkuaz zemin üzerinde pembe tabakta duran, mavi-sarı-beyaz dalgalı mermer desenli kalın sütun mum."
+      },
+      {
+        "file": "swirl-pillar-kullanimda",
+        "alt": "Kullanımda: turkuaz duvarda denize bakan kemerli pencere, masada pembe vazoda bir çiçek ve yanan Swirl Pillar mum."
+      }
+    ]
+  },
+  {
+    "id": "ZZ-004",
+    "sku": "[SKU]",
+    "slug": "kaleido-votive",
+    "name": "Kaleido Votive",
+    "collection": "kaleido-club",
+    "postcard": "15",
+    "newRank": 6,
+    "price": null,
+    "compareAtPrice": null,
+    "currency": "TRY",
+    "priceLabel": "[FİYAT]",
+    "stock": "out_of_stock",
+    "scentFamily": "Yeşil",
+    "scentNotes": "Yeşil çay, limon otu, deniz camı ferahlığı",
+    "short": "Renkli cam filmli votif mumluk.",
+    "description": "Sahilde topladığımız camlar gibi: her çevirişte başka bir renge döner. Yak, masaya koy ve renklerin duvarda yer değiştirmesini izle.",
+    "variants": [
+      {
+        "name": "Cam",
+        "options": [
+          "Gökkuşağı",
+          "Deniz camı"
+        ]
+      },
+      {
+        "name": "Set",
+        "options": [
+          "Tekli",
+          "3'lü"
+        ]
+      }
+    ],
+    "specs": {
+      "size": "[ÖLÇÜ]",
+      "weight": "[GRAMAJ]",
+      "burnTime": "[SÜRE]"
+    },
+    "images": [
+      {
+        "file": "kaleido-votive",
+        "alt": "Mor zemin üzerinde, üçgen renkli cam filmlerle kaplı vitray görünümlü votif mumluk; masaya renkli ışık lekeleri düşüyor."
+      },
+      {
+        "file": "kaleido-votive-kullanimda",
+        "alt": "Kullanımda: mor duvara renkli üçgen ışıklar düşüyor; krem masada yanan Kaleido Votive ve turuncu bir kaleydoskop."
+      }
+    ],
+    "note": "Cam filmin alev yakınındaki ısı testi tamamlanmadı: [TEST SONUCU]"
+  },
+  {
+    "id": "ZZ-005",
+    "sku": "[SKU]",
+    "slug": "bonjour",
+    "name": "Bonjour",
+    "collection": "wobble",
+    "postcard": "11",
+    "newRank": 4,
+    "price": null,
+    "compareAtPrice": null,
+    "currency": "TRY",
+    "priceLabel": "[FİYAT]",
+    "stock": "in_stock",
+    "scentFamily": "Gurme",
+    "scentNotes": "İncir yaprağı, beyaz çay, taze kahve",
+    "short": "Üzerinde el yazısıyla “bonjour” yazan turkuaz mum.",
+    "description": "Kapıdan giren herkese ilk o söyler: bonjour. Harfleri biraz yamuk, tıpkı duvardaki hayvanlarım gibi; perfectly imperfect.",
+    "variants": [
+      {
+        "name": "Yazı",
+        "options": [
+          "bonjour",
+          "bonsoir",
+          "merci"
+        ]
+      },
+      {
+        "name": "Renk",
+        "options": [
+          "Turkuaz",
+          "Pembe"
+        ]
+      }
+    ],
+    "specs": {
+      "size": "[ÖLÇÜ]",
+      "weight": "[GRAMAJ]",
+      "burnTime": "[SÜRE]"
+    },
+    "images": [
+      {
+        "file": "bonjour",
+        "alt": "Sarı zemin üzerinde, pembe tabakta duran, hafif yamuk turkuaz mum; üzerinde el yazısıyla \"bonjour\" yazıyor."
+      },
+      {
+        "file": "bonjour-kullanimda",
+        "alt": "Kullanımda: sarı duvarda \"merci!\" yazılı bir not, masada kruvasan, pembe kahve fincanı ve yanan Bonjour mum."
+      }
+    ]
+  },
+  {
+    "id": "ZZ-006",
+    "sku": "[SKU]",
+    "slug": "kala-citron",
+    "name": "Kala Citron",
+    "collection": "kala",
+    "postcard": "10",
+    "newRank": 3,
+    "price": null,
+    "compareAtPrice": null,
+    "currency": "TRY",
+    "priceLabel": "[FİYAT]",
+    "stock": "in_stock",
+    "scentFamily": "Narenciye",
+    "scentNotes": "Limon kabuğu, zeytin yaprağı, deniz tuzu",
+    "short": "Zeytin dalı etiketli limon sarısı kavanoz.",
+    "description": "Bahçemin limonu, zeytin yaprağı ve biraz deniz tuzu bu kavanozda. A little piece of Somewhere: nereye götürürsen orası biraz koy olur.",
+    "variants": [
+      {
+        "name": "Koku",
+        "options": [
+          "Citron",
+          "Orange",
+          "Olive"
+        ]
+      },
+      {
+        "name": "Kavanoz",
+        "options": [
+          "Küçük",
+          "Büyük"
+        ]
+      }
+    ],
+    "specs": {
+      "size": "[ÖLÇÜ]",
+      "weight": "[GRAMAJ]",
+      "burnTime": "[SÜRE]"
+    },
+    "images": [
+      {
+        "file": "kala-citron",
+        "alt": "Krem zeminde limon, portakal ve zeytin yaprağı deseni; önde zeytin dalı çizimli \"Kala citron\" etiketli limon sarısı kavanoz mum."
+      },
+      {
+        "file": "kala-citron-kullanimda",
+        "alt": "Kullanımda: pencereden deniz ve limon dalı görünüyor; turkuaz masada limon kâsesi ve yanan Kala Citron kavanoz mum."
+      }
+    ]
+  }
+]
